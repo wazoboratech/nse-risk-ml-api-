@@ -1,0 +1,30 @@
+[
+  {
+    "ticker": "SCOM",
+    "name": "Safareicom PLC",
+    "price": 13.45,
+    "pe_ratio": 12.1,
+    "market_cap": 53800000000
+  },
+  {
+    "ticker": "EQTY",
+    "name": "equity group",
+    "price": 44.5,
+    "pe_ratio": 3.5,
+    "market_cap": 13800000000
+  },
+  {
+    "ticker": "KCB",
+    "name": "KCB group",
+    "price": 38.9,
+    "pe_ratio": 3.0,
+    "market_cap": 12200000000
+  },
+  {
+    "ticker": "EABL",
+    "name": "East African breweries",
+    "price": 165.0,
+    "pe_ratio": 5.6,
+    "market_cap": 65400000000
+  }
+]
